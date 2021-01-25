@@ -6,7 +6,7 @@ import pandas
 import sys
 import time
 
-minutes_between_updates = 5
+minutes_between_updates = 0.01
 
 indices_dict = {
     '^GSPC': 'S&P 500',
